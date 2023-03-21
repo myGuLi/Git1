@@ -9,7 +9,8 @@ public class git {
         System.out.println("master conflit");
         System.out.println("hot-fix confilt1");
         System.out.println("push test");
-
+         System.out.println("edit in github");
+            
     }
 }
 
