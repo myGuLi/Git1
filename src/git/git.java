@@ -7,6 +7,8 @@ public class git {
         System.out.println("git2");
         System.out.println("hot-fix 1");
         System.out.println("master conflit");
+        System.out.println("hot-fix confilt1");
+
     }
 }
 
